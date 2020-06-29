@@ -2,7 +2,7 @@
 
 Explication du jeu de données :
 
-country = pays /n
+country = pays  
 age	= age
 new_user = nouvel utilisateur
 source = comment est-il arriver sur le site (publicité, référencement ou autres)
